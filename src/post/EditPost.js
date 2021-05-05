@@ -172,7 +172,7 @@ const photoUrl=id ?`https://saif-social-api.herokuapp.com/post/photo/${id}?${new
           {error}
         </div>
        <div className="card-topp">
-       	 <img src={photoUrl} alt={name}
+       	 <img src={photoUrl} 
        	 onError={i=>{i.target.src=`${ava}`}}/>
        </div>
 
