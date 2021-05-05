@@ -11,22 +11,10 @@ class Comment extends Component{
 		text:"",
 		error:"",
 		redirectToSignin:false,
-		count:+0
+		
 	}
 
-	componentDidMount=()=>{
-		this.counter()
-
-	}
-
-	counter=(count)=>{
-		setTimeout(()=>{
-			this.setState({
-				count:count++
-			})
-			console.log(count)
-		}),300
-	}
+	
 
   handleChange = event => {
        
