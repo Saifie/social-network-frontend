@@ -101,7 +101,7 @@ textarea{
 @media (max-width:550px){
 	.profile-block{
 		margin-top: 24px;
-		height: 130vh;
+		height: auto;
 		
 		padding: 8px;
 		flex-direction: column;
