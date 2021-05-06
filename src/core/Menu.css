@@ -137,7 +137,7 @@ body{
 /*home css*/
 .contt{
 	background-color: #f4f4f4;
-	overflow: scroll;
+	
 	width: 70%;
 	border-left: 1px solid rgba(0,0,0,0.1);
 	border-right: 1px solid rgba(0,0,0,0.1);
