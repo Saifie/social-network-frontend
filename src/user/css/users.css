@@ -20,10 +20,11 @@ overflow: ;
 	grid-template-rows: 60vh;
 	justify-items:center;
 	align-items: center;
+	grid-gap:2rem;
 }
 .card-col{
 
-	height: 72vh;
+	height: 76vh;
 	background-color: #fff;
 	width: 80%;
 	margin:60px;
