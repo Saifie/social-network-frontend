@@ -24,7 +24,7 @@ overflow: ;
 }
 .card-col{
 
-	height: 76vh;
+	height: 80vh;
 	background-color: #fff;
 	width: 80%;
 	margin:60px;
@@ -34,7 +34,7 @@ overflow: ;
 
 }
 .card-top{
-	height: 50%;
+	height: 48%;
 	background-color: rgb(0 0 0);
 
 }
